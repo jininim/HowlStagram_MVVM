@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "108364367610",
+    "project_id": "mvvmhowlstagram-78ce8",
+    "storage_bucket": "mvvmhowlstagram-78ce8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108364367610:android:45c035188458f213902b43",
+        "android_client_info": {
+          "package_name": "com.mvvm.mvvmhowlstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108364367610-f8f7d53ioieb0adlvg2lc0e4qojcnd7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCflOZKVXV5Btut7l5OVJ5yWqRbd0xCpjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108364367610-f8f7d53ioieb0adlvg2lc0e4qojcnd7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
